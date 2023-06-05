@@ -1,9 +1,13 @@
 body {
-  background-image: url(images/galaxy.jpg);
-  ;
-  background-size: cover;
+  background: linear-gradient(
+    pink 0%,
+    orange 20%,
+    lightblue 40%,
+    rgb(231, 161, 231) 60%,
+    orange 70%,
+    pink 90%
+  );
 
-  background-repeat: no-repeat;
 
   font-family: 'Ubuntu', sans-serif;
 
